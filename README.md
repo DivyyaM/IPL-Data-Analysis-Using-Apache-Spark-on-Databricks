@@ -44,15 +44,8 @@ This project focuses on performing an end-to-end analysis of IPL data using Apac
 
 
 
-#### Sanpshots:
-![Screenshot 2024-08-08 180103](https://github.com/user-attachments/assets/969fedf8-9be2-43d3-8cf4-e81a66aad1d6)
-
-![Screenshot 2024-08-08 180123](https://github.com/user-attachments/assets/c5e36b5f-14fb-4770-a0d9-fd097fe6085b)
-
- 
-![Screenshot 2024-08-08 180739](https://github.com/user-attachments/assets/94cbf08a-0331-409d-b74e-85c807e4f086)
-
 
 ----------------------------------------------------------------
 Credits: Divya Meena
+
 
