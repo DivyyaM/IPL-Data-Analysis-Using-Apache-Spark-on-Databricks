@@ -54,4 +54,5 @@ This project focuses on performing an end-to-end analysis of IPL data using Apac
 
 
 ----------------------------------------------------------------
-Credits: Darshil Parmar
+Credits: Divya Meena
+
